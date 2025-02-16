@@ -1,5 +1,6 @@
 # DiabetesProject-Classification-Using-Logistic-Regression
-I am Priyanka B Tippe, an Msc Statistics Graduate. This project implements Diabetes Classification using Logistic Regression with 88% Accuracy.
+I am Priyanka B Tippe, an Msc Statistics Graduate
+This project implements Diabetes Classification using Logistic Regression with 88% Accuracy.
 
 🔍 Project Overview Algorithm: Logistic Regression Dataset: Diabetes Dataset Objective: Predict whether a patient is diabetic (1) or not (0) based on features such as glucose level, BMI, age, and insulin level.
 
